@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6l0022/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 阿毘曇五法行經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T28/T28n1557.xml
+    old_id: T28n1557
+hash: sha256:5eeee08df3de36c5f2fdd6dab54ea99a283ffc54d986f29fbcf4fd0f02863e69

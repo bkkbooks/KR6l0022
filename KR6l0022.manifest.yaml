@@ -1,0 +1,60 @@
+canonical_identifier: bkk:krp/KR6l0022/v1
+canonical_location: https://kanripo.org/bkk/KR6l0022/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 阿毘曇五法行經
+  identifiers:
+    alt_id:
+    - T28n1557
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T28/T28n1557.xml
+    old_id: T28n1557
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: 宮
+  label: 宮
+  source_xml_id: wit4
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 磧-CB
+  label: 磧-CB
+  source_xml_id: wit6
+- short: 麗-CB
+  label: 麗-CB
+  source_xml_id: wit5
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6l0022_000.yaml, hash: 'sha256:5eeee08df3de36c5f2fdd6dab54ea99a283ffc54d986f29fbcf4fd0f02863e69'}
+  - {seq: 1, filename: KR6l0022_001.yaml, hash: 'sha256:36a56934c482f1cd397f2a63b18b20ed2223f0ea14a2e84a177cded7630796bb'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6l0022_001.markers.yaml, hash: 'sha256:ad4ca69caeb0d6b80456871dceb6c6fc39f25be53f331032cd663c003e50434e'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6l0022_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4371
+  label: 阿毘曇五法行經
+  type: juan
+  level: 1
+hash: sha256:352ee8993a344d35578f4745e7484623dcde03957aa1174612a23a3f1527a9e8
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
