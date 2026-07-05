@@ -40,9 +40,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6l0022_000.yaml, hash: 'sha256:5eeee08df3de36c5f2fdd6dab54ea99a283ffc54d986f29fbcf4fd0f02863e69'}
-  - {seq: 1, filename: KR6l0022_001.yaml, hash: 'sha256:36a56934c482f1cd397f2a63b18b20ed2223f0ea14a2e84a177cded7630796bb'}
+  - {seq: 1, filename: KR6l0022_001.yaml, hash: 'sha256:f8f5a49ba42e02e10e3a1d65cb8e45e9546bab55fa38b0d1ad22d3292782ba71'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6l0022_001.markers.yaml, hash: 'sha256:ad4ca69caeb0d6b80456871dceb6c6fc39f25be53f331032cd663c003e50434e'}
+  - {seq: 0, role: markers, filename: assets/KR6l0022_000.markers.yaml, hash: 'sha256:1a6057dd46620528222a8661cfb9b2f4ca5fc070368dc21171e76d9f8291d8a7'}
+  - {seq: 1, role: markers, filename: assets/KR6l0022_001.markers.yaml, hash: 'sha256:c9dca39db74d54b4c0290057d443aab45866749512a0717af63e3c1ddcd174fb'}
 table_of_contents:
 - ref:
     seq: 1
@@ -54,7 +55,4 @@ table_of_contents:
   label: 阿毘曇五法行經
   type: juan
   level: 1
-hash: sha256:352ee8993a344d35578f4745e7484623dcde03957aa1174612a23a3f1527a9e8
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:c58b97c92bdbb255c353ef9020f34001c846a1be6a280195f2710d28efa6a7d6
