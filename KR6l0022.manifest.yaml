@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6l0022/v1
 canonical_location: https://kanripo.org/bkk/KR6l0022/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 阿毘曇五法行經
   identifiers:
@@ -40,10 +40,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6l0022_000.yaml, hash: 'sha256:5eeee08df3de36c5f2fdd6dab54ea99a283ffc54d986f29fbcf4fd0f02863e69'}
-  - {seq: 1, filename: KR6l0022_001.yaml, hash: 'sha256:f8f5a49ba42e02e10e3a1d65cb8e45e9546bab55fa38b0d1ad22d3292782ba71'}
+  - {seq: 1, filename: KR6l0022_001.yaml, hash: 'sha256:480a70056d2d48fcf6e75c751bd23268cac48117508a5d79f8b1c12f79a3b55d'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6l0022_000.markers.yaml, hash: 'sha256:1a6057dd46620528222a8661cfb9b2f4ca5fc070368dc21171e76d9f8291d8a7'}
-  - {seq: 1, role: markers, filename: assets/KR6l0022_001.markers.yaml, hash: 'sha256:c9dca39db74d54b4c0290057d443aab45866749512a0717af63e3c1ddcd174fb'}
+  - {seq: 1, role: markers, filename: assets/KR6l0022_001.markers.yaml, hash: 'sha256:46c580a8b7e31d22bda194321f04e2dc15480a1c553a46057a93703098c45446'}
 table_of_contents:
 - ref:
     seq: 1
@@ -55,4 +55,7 @@ table_of_contents:
   label: 阿毘曇五法行經
   type: juan
   level: 1
-hash: sha256:c58b97c92bdbb255c353ef9020f34001c846a1be6a280195f2710d28efa6a7d6
+hash: sha256:2b509a2f3b897ab6f8c904a53176c56bdb3bde828dcbf276cbf8ddc4e9525052
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
